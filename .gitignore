@@ -1,0 +1,16 @@
+/.gradle/
+/.idea/
+/.kotlin/
+/**/build/
+/local.properties
+/gradle/gradle-daemon-jvm.properties
+*.aab
+*.apk
+*.apks
+*.jks
+*.keystore
+*.asc
+*.gpg
+*.pgp
+.env
+.env.*
