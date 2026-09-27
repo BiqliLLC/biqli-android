@@ -18,7 +18,7 @@ internal class BiqliStateStore(context: Context, appId: String) {
 
     fun appInstanceId(): String = synchronized(this) {
         preferences.getString(APP_INSTANCE, null) ?: run {
-            val value = "install_${UUID.randomUUID().toString().replace("-", "")}" 
+        val value = "install_${UUID.randomUUID().toString().replace("-", "")}"
             preferences.edit().putString(APP_INSTANCE, value).commit()
             value
         }

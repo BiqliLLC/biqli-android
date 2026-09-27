@@ -2,8 +2,8 @@
 
 The Kotlin-first SDK handles verified Android App Links and exact deferred attribution through Google Play Install Referrer. It supports Android API 23+, Kotlin coroutines, a Java-compatible callback API, process-safe pending requests, and idempotent retries.
 
-Source: [github.com/BiqliLLC/biqli-android](https://github.com/BiqliLLC/biqli-android)  
-Issues: [github.com/BiqliLLC/biqli-android/issues](https://github.com/BiqliLLC/biqli-android/issues)
+- Source: [github.com/BiqliLLC/biqli-android](https://github.com/BiqliLLC/biqli-android)
+- Issues: [github.com/BiqliLLC/biqli-android/issues](https://github.com/BiqliLLC/biqli-android/issues)
 
 ## Install
 
